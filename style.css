@@ -126,7 +126,7 @@ label.load2:after{
 				font-size: 32px;
 				color: black;
 }
-@media(min-width:800px){
+@media(min-width:600px){
 			content{
 				display: flex;
 				justify-content:center;
